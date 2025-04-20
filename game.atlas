@@ -12,14 +12,14 @@ LeaderIcons/Sajadmax
   index: -1
   BuildingIcons/Command center
   rotate: false
-  xy: 4, 4
+  xy: 262, 736
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Max Empier
   rotate: false
-  xy: 262, 736
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
