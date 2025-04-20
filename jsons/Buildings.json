@@ -7,7 +7,7 @@
 		"gold": 4,
 		"culture": 3,
 		"Food": 3,
-		"requiredTech": "Writing",
+		"requiredTech": "Education",
 		"uniqueTo": "Max Empier",
 		"cityStrength": 2,
 		"cityHealth": 4,
