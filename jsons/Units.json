@@ -1,0 +1,15 @@
+[
+	{
+		"name": "loyal Gunner",
+		"unitType": "Ranged",
+		"uniqueTo": "Max Empier",
+		"replaces": "Archer",
+		"movement": 4,
+		"strength": 6,
+		"rangedStrength": 15,
+		"range": 4,
+		"cost": 5,
+		"uniques": ["[4] HP when healing","[5] Sight","[-20]% Strength decreasing with distance from the capital","Limited to [6] per Civilization"]
+		"attackSound": "shot"
+	},
+]

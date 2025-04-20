@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Command center",
+		"isNationalWonder": true,
+		"production": 7,
+		"science": 5,
+		"gold": 4,
+		"culture": 3,
+		"Food": 3,
+		"requiredTech": "Writing",
+		"uniqueTo": "Max Empier",
+		"cityStrength": 2,
+		"cityHealth": 4,
+		"cost": 15,
+		"quote": "we build the Command Center",
+		"uniques": ["Cannot be purchased","Limited to [5] per Civilization","Destroyed when the city is captured","Provides 2 extra copy of each improved luxury resource near this City","Unsellable","Triggers a global alert upon build start","Cannot be hurried"]
+	},
+]

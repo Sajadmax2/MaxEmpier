@@ -1,0 +1,43 @@
+[
+[
+	{
+		"name": "Max Empier",
+		"leaderName": "Sajadmax",
+		"adjective": ["Max"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		"personality": "Darius I",
+		
+		"startIntroPart1": "I, SajadMax.Shall lead our Civilization to glory.",
+		"startIntroPart2": "Time to show our enemies our power",
+		
+		"declaringWar": "Peace? i don't think we can have peace with you",
+		"attacked": "Time to destroy you!",
+		"defeated": "I lost, NOOO.",
+		"introduction": "Greeting! I' SajadMax leader of Max Empier and I deem you as not worthy of our attention. For now...",
+		
+		"neutralHello": "Greeting!",
+		"neutralLetsHearIt": ["Go on.","Speak.","Say what you have"],
+		"neutralNo": ["Not interested!","Absolute No!","I want to say No."],
+		"neutralYes": ["interesting, Let’s do it!","Of course.","That is a beautiful idea!."],
+
+		"hateHello": "What do you want? if nothing go",
+		"hateLetsHearIt": ["Speak i don't have all of day!","What did you say?","can you end it fast?"],
+		"hateNo": ["I'absolutely refuse!","We the MaxEmpier are not agreeing to that!","What a pathetic excuse!"],
+		"hateYes": ["Fine...","i want to say no but that good idea","i have to accept it."],
+		
+		"afterPeace": "You did great, i want to fight you more but this war is become tiring.",
+		"tradeRequest": "I have very great deal for you.",
+
+		"outerColor": [255,51,51],
+		"innerColor": [1,1,1],
+		"favoredReligion": "Zoroastrianism",
+		"uniqueName": "beauty and power!",
+		"uniques": ["[+20]% [Production] [in all cities]","[5]% happiness from [Population] [in all cities]","Starts with [Archery]","Units ignore terrain costs when moving into any tile with Forest",],
+		"cities": ["Matiral","Nicools","Sonus","Tumrun","Voxis","Midwall","Nightford","Midlight","ClayRock",
+			"Orion","Gehenna District 10","Gehenna District 11","Gehenna District 12","Gehenna District 13","Gehenna District 14","Gehenna District 15","Gehenna District 16","Gehenna District 17","Gehenna District 18",
+			"Gehenna District 19","Gehenna District 20","Gehenna District 21","Gehenna District 22","Gehenna District 23","Gehenna District 24","Gehenna District 25","Gehenna District 26","Gehenna District 27","Gehenna District 28",
+			"Gehenna District 29","Gehenna District 30","Gehenna District 31","Gehenna District 32","Gehenna District 33","Gehenna District 34"]
+	"spyNames": ["Momoi", "Shirko", "Linda", "Andrew", "Zach", "708", "Hikari", "Hina", "Astolof", "Leander"]
+    },
+]
