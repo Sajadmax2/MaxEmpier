@@ -1,0 +1,34 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Sajadmax
+  rotate: false
+  xy: 4, 736
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+  BuildingIcons/Command center
+  rotate: false
+  xy: 262, 736
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Max Empier
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Loyal Gunner
+  rotate: false
+  xy: 112, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
