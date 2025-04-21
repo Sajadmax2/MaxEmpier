@@ -5,7 +5,7 @@ format: RGBA8888
 repeat: none
 LeaderIcons/Sajadmax
   rotate: false
-  xy: 4, 736
+  xy: 205, 1
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
@@ -19,14 +19,14 @@ LeaderIcons/Sajadmax
   index: -1
 NationIcons/Max Empier
   rotate: false
-  xy: 4, 4
+  xy: 457, 1
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Loyal Gunner
   rotate: false
-  xy: 112, 112
+  xy: 103, 1
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
