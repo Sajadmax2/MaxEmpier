@@ -5,7 +5,7 @@ format: RGBA8888
 repeat: none
 LeaderIcons/Sajadmax
   rotate: false
-  xy: 205, 1
+  xy: 240, 1
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
