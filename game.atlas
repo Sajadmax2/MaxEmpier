@@ -12,7 +12,7 @@ LeaderIcons/Sajadmax
   index: -1
   BuildingIcons/Command center
   rotate: false
-  xy: 8, 8
+  xy: 124, 8
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
