@@ -13,8 +13,8 @@ LeaderIcons/Sajadmax
   BuildingIcons/Command center
   rotate: false
   xy: 8, 8
-  size: 100, 100
-  orig: 100, 100
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
 NationIcons/Max Empier
