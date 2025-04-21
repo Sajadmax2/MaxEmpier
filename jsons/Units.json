@@ -4,11 +4,11 @@
 		"unitType": "Ranged",
 		"uniqueTo": "Max Empier",
 		"replaces": "Archer",
-		"movement": 9,
+		"movement": 6,
 		"strength": 1,
-		"rangedStrength": 45,
-		"range": 8,
-		"cost": 5,
+		"rangedStrength": 19,
+		"range": 6,
+		"cost": 10,
 		"uniques": ["[4] HP when healing","[5] Sight","[-20]% Strength decreasing with distance from the capital","Limited to [6] per Civilization"]
 		"attackSound": "shot"
 	},
