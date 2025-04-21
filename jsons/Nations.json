@@ -32,7 +32,7 @@
 		"innerColor": [1,1,1],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "beauty and power!",
-		"uniques": ["[+20]% [Production] [in all cities]","[+2 happiness] per every [3] [science]","[+2 happiness] per every [3] [production]","Starts with [Archery]","Units ignore terrain costs when moving into any tile with Forest",],
+		"uniques": ["[+20]% [Production] [in all cities]","Starts with [Archery]","Units ignore terrain costs when moving into any tile with Forest",],
 		"cities": ["Matiral","Nicools","Sonus","Tumrun","Voxis","Midwall","Nightford","Midlight","ClayRock",
 			"Orion","Lubrug","Faport","Charta","Trison","Iylarc","isha","Myrefall","Elnlon","Norbury",
 			"Kald","Everton","Larcbost","Arkaley","Arkney","Satbury4","Alnwick","Cirrane","Silverkeep","Erith",
