@@ -34,9 +34,9 @@
 		"uniqueName": "beauty and power!",
 		"uniques": ["[+20]% [Production] [in all cities]","[+2 happiness] per every [3] [science]","[+2 happiness] per every [3] [production]","Starts with [Archery]","Units ignore terrain costs when moving into any tile with Forest",],
 		"cities": ["Matiral","Nicools","Sonus","Tumrun","Voxis","Midwall","Nightford","Midlight","ClayRock",
-			"Orion","Lubrug","Faport","Charta","Trison","Iylarc","isha","Gehenna District 16","Gehenna District 17","Gehenna District 18",
-			"Gehenna District 19","Gehenna District 20","Gehenna District 21","Gehenna District 22","Gehenna District 23","Gehenna District 24","Gehenna District 25","Gehenna District 26","Gehenna District 27","Gehenna District 28",
-			"Gehenna District 29","Gehenna District 30","Gehenna District 31","Gehenna District 32","Gehenna District 33","Gehenna District 34"]
+			"Orion","Lubrug","Faport","Charta","Trison","Iylarc","isha","Myrefall","Elnlon","Norbury",
+			"Kald","Everton","Larcbost","Arkaley","Arkney","Satbury4","Alnwick","Cirrane","Silverkeep","Erith",
+			"Woodpine","Venzor","Pran","Pirn","Graycott","Murkwell"]
 	"spyNames": ["Momoi", "Shirko", "Linda", "Andrew", "Zach", "708", "Hikari", "Hina", "Astolof", "Leander"]
     },
 ]
