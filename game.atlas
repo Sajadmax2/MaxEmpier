@@ -26,7 +26,7 @@ NationIcons/Max Empier
   index: -1
 UnitIcons/Loyal Gunner
   rotate: false
-  xy: 8, 8
+  xy: 440, 8
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
