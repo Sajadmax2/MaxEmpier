@@ -12,21 +12,21 @@ LeaderIcons/Sajadmax
   index: -1
   BuildingIcons/Command center
   rotate: false
-  xy: 1, 1
+  xy: 8, 8
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Max Empier
   rotate: false
-  xy: 457, 1
+  xy: 457, 8
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Loyal Gunner
   rotate: false
-  xy: 103, 1
+  xy: 103, 8
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
