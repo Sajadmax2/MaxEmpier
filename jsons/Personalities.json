@@ -1,0 +1,33 @@
+[
+  {
+      "name": "Sajadmax",
+      "culture": 6,
+      "faith": 5,
+      "food": 4,
+      "gold": 8,
+      "happiness": 7,
+      "production": 5,
+      "science": 6,
+
+      "military": 6,
+      "aggressive": 4,
+      "declareWar": 6,
+      "commerce": 4,
+      "diplomacy": 7,
+      "loyal": 6,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 2,
+          "Honor": 7,
+          "Commerce": 6,
+          "Patronage": 6,
+          "Piety": 3,
+          "Rationalism": 6,
+          "Freedom": 2,
+          "Autocracy": 3,
+          "Order": 3,
+      },
+  },
+]
