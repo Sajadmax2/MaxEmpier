@@ -7,6 +7,6 @@
 		"turnsToBuild": 7,
 	        "techRequired": "Construction",
 		"uniques": [
-		"[+2 gold, +1 happiness] for each adjacent [worked]"],
+		"[+2 gold] for each adjacent [worked]"],
 	}
 ]
