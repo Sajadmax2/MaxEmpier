@@ -21,12 +21,13 @@
 		"strength": 4,
 		"cost": 10,
 		"uniques": ["[16] HP when healing","[4] Sight","Limited to [4] per Civilization"]
-		"attackSound": "shot"
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "SuperSettler",
 		"unitType": "Civilian",
 		"uniqueTo": "Max Empier",
+		"obsoleteTech": "Metal Casting",
 		"movement": 6,
 		"strength": 1,
 		"cost": 25,
