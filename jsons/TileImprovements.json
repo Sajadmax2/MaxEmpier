@@ -1,6 +1,6 @@
 [
 	{
-		"name": "ManagementCamp",
+		"name": "Management Camp",
 		"uniqueTo": "Max Empier",
 		"production": 1,
 		"terrainsCanBeBuiltOn": ["Desert","Plains","Grassland","Snow"],
