@@ -27,7 +27,7 @@
 		"name": "SuperSettler",
 		"unitType": "Civilian",
 		"uniqueTo": "Max Empier",
-		"obsoleteTech": "Construction",
+		"requiredTech": "Construction",
 		"movement": 6,
 		"strength": 1,
 		"cost": 25,
