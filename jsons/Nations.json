@@ -36,7 +36,7 @@
 		"cities": ["Matiral","Nicools","Sonus","Tumrun","Voxis","Midwall","Nightford","Midlight","ClayRock",
 			"Orion","Lubrug","Faport","Charta","Trison","Iylarc","isha","Myrefall","Elnlon","Norbury",
 			"Kald","Everton","Larcbost","Arkaley","Arkney","Satbury4","Alnwick","Cirrane","Silverkeep","Erith",
-			"Woodpine","Venzor","Pran","Pirn","Graycott","Murkwell"]
-	"spyNames": ["Momoi", "Shirko", "Linda", "Andrew", "Zach", "708", "Hikari", "Hina", "Astolof", "Leander"]
+			"Woodpine","Venzor","Pran","Pirn","Graycott","Murkwell"],
+	"spyNames": ["Momoi", "Shirko", "Linda", "Andrew", "Zach", "708", "Hikari", "Hina", "Astolof", "Leander"],
     },
 ]
