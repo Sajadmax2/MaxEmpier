@@ -1,9 +1,9 @@
 
 [
     {
-        "name": "hlo Worship",
+        "name": "Only on god",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Shrine]"]
+        "uniques": ["[+3 Culture] from every [City]"]
     },
     {
         "name": "Sw Music",
