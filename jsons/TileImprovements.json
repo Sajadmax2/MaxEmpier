@@ -1,5 +1,5 @@
 [
- {
+	{
 		"name": "Camp",
 		"uniqueTo": "Max Empier",
 		"production": 1,
@@ -8,4 +8,5 @@
 	        "techRequired": "Construction",
 		"uniques": [
 		"[+1 Production] for each adjacent [Lumber mill]",
+	},			
 ]
