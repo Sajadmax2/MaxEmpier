@@ -8,7 +8,7 @@
     {
         "name": "Hormony lover",
         "type": "Follower",
-        "uniques": ["+3 Culture,+2 Happiness] from every [Shrine] <in cities with at least [2] [Followers of this Religion]>"]
+        "uniques": ["[+3 Culture,+2 Happiness] from every [Shrine] <in cities with at least [2] [Followers of this Religion]>"]
     },
     {
         "name": "Thinkers",
