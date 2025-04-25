@@ -1,12 +1,12 @@
 [
 	{
-		"name": "STRCamp",
+		"name": "ManagementCamp",
 		"uniqueTo": "Max Empier",
 		"production": 1,
-		"terrainsCanBeBuiltOn": ["Desert","Tundra","Forest","Jungle"],
+		"terrainsCanBeBuiltOn": ["Desert","Greenland"],
 		"turnsToBuild": 7,
 	        "techRequired": "Construction",
 		"uniques": [
-		"[+1 Production] for each adjacent [Lumber mill]"],
+		"[+2 gold, +1 happiness] for each adjacent [worked]"],
 	}
 ]
