@@ -7,6 +7,6 @@
 		"turnsToBuild": 7,
 	        "techRequired": "Construction",
 		"uniques": [
-		"[+1 Production] for each adjacent [Lumber mill]"
+		"[+1 Production] for each adjacent [Lumber mill]",
  },
 ]
