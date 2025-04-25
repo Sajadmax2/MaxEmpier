@@ -6,18 +6,18 @@
         "uniques": ["[+3 Culture] from every [City]"]
     },
     {
-        "name": "Sw Music",
+        "name": "Hormony lover",
         "type": "Follower",
-        "uniques": ["[+2 Culture] from every [Temple] <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["+1 Culture,+1 Happiness] from every [Shrine] <in cities with at least [2] [Followers of this Religion]>"]
     },
     {
-        "name": "E Dialogue",
+        "name": "Thinkers",
         "type": "Founder",
-        "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"]
+        "uniques": ["[5]% [Science] from every follower, up to [40]%"]
     },    
     {
         "name": "TrRest",
         "type": "Enhancer",
-        "uniques": ["Gain [50] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+        "uniques": ["[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>","Religion naturally spreads to cities [+5] tiles away"]
     }
 ]
