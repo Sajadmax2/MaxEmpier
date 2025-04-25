@@ -8,12 +8,12 @@
     {
         "name": "Hormony lover",
         "type": "Follower",
-        "uniques": ["+1 Culture,+1 Happiness] from every [Shrine] <in cities with at least [2] [Followers of this Religion]>"]
+        "uniques": ["[+3 Culture,+2 Happiness] from every [Shrine] <in cities with at least [2] [Followers of this Religion]>"]
     },
     {
         "name": "Thinkers",
         "type": "Founder",
-        "uniques": ["[5]% [Science] from every follower, up to [40]%"]
+        "uniques": ["[25]% [Science] from every follower, up to [500]%"]
     },    
     {
         "name": "Help of God",
