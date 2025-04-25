@@ -3,7 +3,7 @@
 		"name": "ManagementCamp",
 		"uniqueTo": "Max Empier",
 		"production": 1,
-		"terrainsCanBeBuiltOn": ["Desert","Plains","Grassland","snow"],
+		"terrainsCanBeBuiltOn": ["Desert","Plains","Grassland","Snow"],
 		"turnsToBuild": 7,
 	        "techRequired": "Construction",
 		"uniques": [
