@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Camp",
+		"name": "STRCamp",
 		"uniqueTo": "Max Empier",
 		"production": 1,
 		"terrainsCanBeBuiltOn": ["Desert","Tundra","Forest","Jungle"],
