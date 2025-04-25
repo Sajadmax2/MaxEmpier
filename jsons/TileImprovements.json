@@ -1,0 +1,13 @@
+[
+   {
+		"name": "Camp",
+		"uniqueTo": "Max Empier",
+		"production": 1,
+		"terrainsCanBeBuiltOn": ["Desert","Tundra","Forest","Jungle"],
+		"turnsToBuild": 7,
+		"uniques": [
+		"[+1 Production] for each adjacent [Lumber mill]"
+		"techRequired": "Construction",
+		"shortcutKey": "M"
+	},
+]
